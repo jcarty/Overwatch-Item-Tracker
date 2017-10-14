@@ -493,7 +493,7 @@
       "reward": "Junkenstein's Revenge",
       "quality": "common",
       "type": "spray",
-      "description": "Win Junkenstein's Revenge on medium difficulty.",
+      "description": "Win Junkenstein's Revenge on Hard difficulty.",
       "hero": "all"
     },
     "not-a-scratch": {
@@ -501,7 +501,7 @@
       "reward": "The Reapening",
       "quality": "common",
       "type": "spray",
-      "description": "Win Junkenstein's Revenge on medium difficulty with no damage to the door.",
+      "description": "Win Junkenstein's Revenge on Hard difficulty with no damage to the door.",
       "hero": "all"
     },
     "four-they-were": {
@@ -517,7 +517,7 @@
       "reward": "Halloween Special",
       "quality": "common",
       "type": "spray",
-      "description": "Win Junkenstein's Revenge on hard difficulty.",
+      "description": "Win Junkenstein's Revenge on Legendary difficulty.",
       "hero": "all"
     },
     "hack-the-planet": {
@@ -768,6 +768,22 @@
       "type": "spray",
       "hero": "all"
     },
+    "season-6-competitor": {
+      "name": null,
+      "description": "Unlocked by completing Season 6 placement matches",
+      "reward": "Season 6 Competitor",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "season-6-hero": {
+      "name": null,
+      "description": "Unlocked by achieving top 500 ranking at the end of Season 6",
+      "reward": "Season 6 Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
     "wizard": {
       "name": null,
       "description": "Unlocked as part of the Diablo 20th Anniversary celebration",
@@ -836,6 +852,38 @@
       "name": null,
       "description": "Unlocked by achieving top 500 ranking at the end of Copa Lúcioball",
       "reward": "Copa Lúcioball Hero",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "survivor": {
+      "name": "Survivor",
+      "description": "Survive 4 bonus waves in Junkenstein Endless on Expert difficulty.",
+      "reward": "The Witch",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "dawn-breaks": {
+      "name": "Dawn Breaks",
+      "description": "Win Junkenstein's Revenge on Expert difficulty.",
+      "reward": "The Reaper",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "six-they-were": {
+      "name": "Six They Were",
+      "description": "Win Junkenstein Endless with 6 different heroes.",
+      "reward": "My Creations",
+      "quality": "common",
+      "type": "spray",
+      "hero": "all"
+    },
+    "unscathed": {
+      "name": "Unscathed",
+      "description": "Win Junkenstein Endless on Hard difficulty with no damage to the door.",
+      "reward": "The Monster",
       "quality": "common",
       "type": "spray",
       "hero": "all"
@@ -938,6 +986,8 @@
     "season-4-hero": "season-4-hero",
     "season-5-competitor": "season-5-competitor",
     "season-5-hero": "season-5-hero",
+    "season-6-competitor": "season-6-competitor",
+    "season-6-hero": "season-6-hero",
     "wizard": "wizard",
     "witch-doctor": "witch-doctor",
     "monk": "monk",
@@ -946,6 +996,10 @@
     "barbarian": "barbarian",
     "summer-games-2016": "summer-games-2016",
     "copa-lucioball-competitor": "copa-lucioball-competitor",
-    "copa-lucioball-hero": "copa-lucioball-hero"
+    "copa-lucioball-hero": "copa-lucioball-hero",
+    "the-witch": "survivor",
+    "the-reaper": "dawn-breaks",
+    "my-creations": "six-they-were",
+    "the-monster": "unscathed"
   }
 }

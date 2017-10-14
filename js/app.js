@@ -83,7 +83,7 @@ OWI.run(function() {
         for (var hero in newData) {
           for (var type in newData[hero]) {
             for (var item in newData[hero][type]) {
-              if (data[hero][type] && data[hero][type][item]) {
+              if (data[hero] && data[hero][type] && data[hero][type][item]) {
                 data[hero][type][newData[hero][type][item]] = data[hero][type][item];
                 delete data[hero][type][item];
               }
